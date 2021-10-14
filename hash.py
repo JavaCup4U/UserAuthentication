@@ -1,6 +1,6 @@
 import hashlib
 
-
+# just used these to convert all the passwords to hash
 
 # encode to bytes using UTF-8 encoding
 
